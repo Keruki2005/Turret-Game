@@ -1,0 +1,2 @@
+# Minimal runtime requirements for Turret-Game
+PyQt5>=5.15.0
